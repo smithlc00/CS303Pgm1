@@ -1,0 +1,5 @@
+Sort Name       File                 Swaps        Comparisons     Loops       
+-------------------------------------------------------------------------
+Radix Sort      data1.txt            7992         998             13026       
+Radix Sort      data2.txt            7992         998             13026       
+Radix Sort      data3.txt            7992         998             13026       
